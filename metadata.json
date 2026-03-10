@@ -1,0 +1,8 @@
+{
+  "name": "Visual Shopping Assistant",
+  "description": "Identify items with your camera, find nearby stores, and discover cheaper alternatives.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
